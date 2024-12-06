@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(224, 177, 130);
+    font-size: 12pt;
+  }
+
+  h2 {
+    font-size: 18pt;
+  }
+
+  #skot {
+    background-color: white;
+    color:blue
+  }
+  
+  #szavanna {
+    background-color: khaki;
+    color:peru
+  }
+
+  #bengal {
+    background-color: black;
+    color:chocolate
+  }
+
+  .felsorolas {
+    color:red
+  }
